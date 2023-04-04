@@ -1,2 +1,24 @@
 # should-i-take-a-break
-library to indicate if you should take a break or not
+
+> library to indicate if you should take a break or not
+
+
+## Install
+
+```
+$ npm install --save should-i-take-a-break
+```
+
+
+## Usage
+
+```js
+const shouldITakeABreak = require('should-i-take-a-break');
+
+console.log(shouldITakeABreak);
+```
+
+
+## License
+
+MIT © [nfett1]

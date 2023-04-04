@@ -1,0 +1,25 @@
+{
+  "name": "should-i-take-a-break",
+  "version": "1.0.0",
+  "description": "library to indicate if you should take a break or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfett1/should-i-take-a-break.git"
+  },
+  "keywords": [
+    "break"
+  ],
+  "author": "nfett1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfett1/should-i-take-a-break/issues"
+  },
+  "homepage": "https://github.com/nfett1/should-i-take-a-break#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
