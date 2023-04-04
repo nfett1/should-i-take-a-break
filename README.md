@@ -16,6 +16,7 @@ $ npm install --save should-i-take-a-break
 const shouldITakeABreak = require('should-i-take-a-break');
 
 console.log(shouldITakeABreak);
+// 'Yes' or 'No'
 ```
 
 
